@@ -45,5 +45,5 @@ Valid license key should be entered for the plugin to function and to receive au
 
 == Changelog ==
 
-= 1.0.0 ( Sep 07, 2021 ) =
+= 1.0.0 ( Sep 08, 2021 ) =
 * Initial release
