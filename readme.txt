@@ -8,9 +8,9 @@ Stable tag: trunk
 License: GPL3
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
-Lightweight component library for Zion Builder.
-
 == Description ==
+
+Lightweight component library for Zion Builder.
 
 Current Components:
 
