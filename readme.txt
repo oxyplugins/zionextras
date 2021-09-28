@@ -15,19 +15,22 @@ Lightweight component library for Zion Builder.
 Current Components:
 
 1. Adjacent Posts
-2. Back to Top
-3. Burger Trigger
-4. Content Switcher
-5. Header Builder
-6. Header Search
-7. Lottie
-8. OffCanvas
-9. Reading Progress Bar
-10. Reading Time
-11. Read More / Less
-12. Slide Menu
-13. Table Of Contents
-14. Toggle Switch
+2. Author Box
+3. Back to Top
+4. Burger Trigger
+5. Content Switcher
+6. Dynamic Lightbox
+7. Fluent Form
+8. Header Builder
+9. Header Search
+10. Lottie
+11. OffCanvas
+12. Reading Progress Bar
+13. Reading Time
+14. Read More / Less
+15. Slide Menu
+16. Table Of Contents
+17. Toggle Switch
 
 == Installation ==
 
@@ -45,5 +48,18 @@ Valid license key should be entered for the plugin to function and to receive au
 
 == Changelog ==
 
+= 1.0.1 ( Sep 28, 2021 ) =
+* [Author Box] - New component for adding author avatar, bio, links.
+* [Dynamic Lightbox] - New component for adding lightboxes. Currently supports inline elements, iframe and integrates with the ZB's repeater consumers to populate with dynamic data.
+* [Fluent Form] - New component for adding and styling Fluent Forms.
+* [Header Builder] - Added  "Dismissable header notification bar" functionality.
+* [Header Builder] - Added option to preview sticky header styling inside builder.
+* [Header Search] - Prevented clicking to open form inside builder when selecting element.
+* [Back to Top] - Added the ability to control hidden position to create custom reveal animations.
+* [Slide Menu] - Fixed sub menu icon transforms not being applied.
+* [Slide Menu] - Added more sensible defaults.
+* [Toggle Switch] - Live changes now instant inside builder.
+* [General] - Front end performance improvement, less JS added to page if specific features aren't enabled.
+
 = 1.0.0 ( Sep 08, 2021 ) =
-* Initial release
+* Plugin launched.
