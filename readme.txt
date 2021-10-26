@@ -19,18 +19,20 @@ Current Components:
 3. Back to Top
 4. Burger Trigger
 5. Content Switcher
-6. Dynamic Lightbox
-7. Fluent Form
-8. Header Builder
-9. Header Search
-10. Lottie
-11. OffCanvas
-12. Reading Progress Bar
-13. Reading Time
-14. Read More / Less
-15. Slide Menu
-16. Table Of Contents
-17. Toggle Switch
+6. Content Timeline
+7. Dynamic Lightbox
+8. Fluent Form
+9. Header Builder
+10. Header Search
+11. Hotspots
+12. Lottie
+13. OffCanvas
+14. Reading Progress Bar
+15. Reading Time
+16. Read More / Less
+17. Slide Menu
+18. Table Of Contents
+19. Toggle Switch
 
 == Installation ==
 
@@ -47,6 +49,11 @@ Current Components:
 Valid license key should be entered for the plugin to function and to receive automatic updates.
 
 == Changelog ==
+
+= 1.0.2 ( Oct 26, 2021 ) =
+* [Hotspots] - New component for creating image hotspots.
+* [Content Timeline] - New component for creating animated vertical timelines.
+* [Lottie] - Added viewport offsets for scroll animations.
 
 = 1.0.1 ( Sep 28, 2021 ) =
 * [Author Box] - New component for adding author avatar, bio, links.
