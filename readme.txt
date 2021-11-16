@@ -21,18 +21,19 @@ Current Components:
 5. Content Switcher
 6. Content Timeline
 7. Dynamic Lightbox
-8. Fluent Form
-9. Header Builder
-10. Header Search
-11. Hotspots
-12. Lottie
-13. OffCanvas
-14. Reading Progress Bar
-15. Reading Time
-16. Read More / Less
-17. Slide Menu
-18. Table Of Contents
-19. Toggle Switch
+8. Evergreen Countdown
+9. Fluent Form
+10. Header Builder
+11. Header Search
+12. Hotspots
+13. Lottie
+14. OffCanvas
+15. Reading Progress Bar
+16. Reading Time
+17. Read More / Less
+18. Slide Menu
+19. Table Of Contents
+20. Toggle Switch
 
 == Installation ==
 
@@ -49,6 +50,16 @@ Current Components:
 Valid license key should be entered for the plugin to function and to receive automatic updates.
 
 == Changelog ==
+
+= 1.0.3 ( Nov 16, 2021 ) =
+* [Evergreen Countdown] - New component for evergreen countdown timers.
+* [Dynamic Lightbox] - Added support for any links to open lightboxes.
+* [Dynamic Lightbox] - Added support for "grouping" multiple items into one lightbox.
+* [Dynamic Lightbox] - Added options to customise reveal effect.
+* [Content Timeline] - Added option to add dynamic text inside markers instead of icons.
+* [Header Builder] - Added option to combine any menu items into single menu for mobiles.
+* [Header Builder] - Fixed issue with scroll up not enabling on very first page load.
+* [Lottie] - Fix - prevent animation expanding outside container.
 
 = 1.0.2 ( Oct 26, 2021 ) =
 * [Hotspots] - New component for creating image hotspots.
