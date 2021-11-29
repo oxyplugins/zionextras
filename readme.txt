@@ -31,9 +31,10 @@ Current Components:
 15. Reading Progress Bar
 16. Reading Time
 17. Read More / Less
-18. Slide Menu
-19. Table Of Contents
-20. Toggle Switch
+18. Shortcode Wrapper
+19. Slide Menu
+20. Table Of Contents
+21. Toggle Switch
 
 == Installation ==
 
@@ -50,6 +51,13 @@ Current Components:
 Valid license key should be entered for the plugin to function and to receive automatic updates.
 
 == Changelog ==
+
+= 1.0.4 ( Nov 29, 2021 ) =
+* [Shortcode Wrapper] - New component for being able to wrap elements in shortcode. Ideal for content restriction for membership sites.
+* [Repeater Providers] - Extended Query Builder (more options in UI for WP query, offsets, including/excluding posts).
+* [Dynamic Data] - Added Post URL into dynamic data field options.
+* [Lightbox] - Video aspect ratio can now be customized.
+* [General] - A few small fixes in the builder.
 
 = 1.0.3 ( Nov 16, 2021 ) =
 * [Evergreen Countdown] - New component for evergreen countdown timers.
