@@ -21,20 +21,22 @@ Current Components:
 5. Content Switcher
 6. Content Timeline
 7. Dynamic Lightbox
-8. Evergreen Countdown
-9. Fluent Form
-10. Header Builder
-11. Header Search
-12. Hotspots
-13. Lottie
-14. OffCanvas
-15. Reading Progress Bar
-16. Reading Time
-17. Read More / Less
-18. Shortcode Wrapper
-19. Slide Menu
-20. Table Of Contents
-21. Toggle Switch
+8. Dynamic Tabs
+9. Evergreen Countdown
+10. Fluent Form
+11. Header Builder
+12. Header Search
+13. Hotspots
+14. Lottie
+15. OffCanvas
+16. Pro Slider
+17. Reading Progress Bar
+18. Reading Time
+19. Read More / Less
+20. Shortcode Wrapper
+21. Slide Menu
+22. Table Of Contents
+23. Toggle Switch
 
 == Installation ==
 
@@ -48,9 +50,20 @@ Current Components:
 
 5. Enter the license key and activate your plugin license at Zion Builder → ZionExtras > License.
 
-Valid license key should be entered for the plugin to function and to receive automatic updates.
+A valid license key should be entered for the plugin to function and to receive automatic updates.
 
 == Changelog ==
+
+= 1.0.5 ( Jan 19, 2022 ) =
+* [Pro Slider] - New component for building dynamic sliders and carousels.
+* [Dynamic Tabs] - New component for adding tabs using ACF repeaters / Metabox groups.
+* [Interactive Element Settings] - New options added to all existing elements (Parallax / Floating / Toggling Classes on click).
+* [Lottie] - All interactivity animation can now be previewed inside the builder.
+* [Shortcode Wrapper] - Shortcodes can now be added via dynamic data.
+* [Fluent Form] - Form name now searchable from the dropdown.
+* [Query Builder Extended] - Added finer control over query.
+* [Content Timeline] - Added extra markup to meta content for more styling possibilities.
+* [Read More] - Added fix for Galaxy S21.
 
 = 1.0.4 ( Nov 29, 2021 ) =
 * [Shortcode Wrapper] - New component for being able to wrap elements in shortcode. Ideal for content restriction for membership sites.
