@@ -27,16 +27,21 @@ Current Components:
 11. Header Builder
 12. Header Search
 13. Hotspots
-14. Lottie
-15. OffCanvas
-16. Pro Slider
-17. Reading Progress Bar
-18. Reading Time
-19. Read More / Less
-20. Shortcode Wrapper
-21. Slide Menu
-22. Table Of Contents
-23. Toggle Switch
+14. Interactive Cursor
+15. Login Form
+16. Lottie
+17. OffCanvas
+18. Member conditions
+19. Pro Modal
+20. Pro Slider
+21. Reading Progress Bar
+22. Reading Time
+23. Read More / Less
+24. Shortcode Wrapper
+25. Slide Menu
+26. Table Of Contents
+27. Text Link
+28. Toggle Switch
 
 == Installation ==
 
@@ -53,6 +58,19 @@ Current Components:
 A valid license key should be entered for the plugin to function and to receive automatic updates.
 
 == Changelog ==
+
+= 1.0.6 ( Mar 16, 2022 ) =
+* [Pro Modal] - New component for creating animated modals/popups with reshow conditions.
+* [Interactive Cursor] - New component for building interactive cursor to interact with other elements.
+* [Text Link] - New simple component for raw text links/buttons (with minimal markup).
+* [Login Form] - New component for adding user login forms.
+* [Element Tilt] - New feature for creating tilt effects on any elements.
+* [Member conditions] - New feature for restricting content for membership sites. Current support/integration for Restrict Content (and Pro), MemberPress, Wishlist Member & Easy Digital Downloads.
+* [Pro Slider] - Added multiple pagination types, scrollbars, dynamic bullets.
+* [Pro Slider] - Updated to Swiper v8.0.7, provides fix for Safari flickering.
+* [Header Builder] - Now able to switch header rows that are included in sticky header (for logo switching etc).
+* [General] - Few style options changes to support for custom breakpoints in Zion Builder v3. (Please be sure to refresh CSS & JS in Zion settings after updating)
+* [General] - Fixed the issue with Zion default CSS sometimes overriding element CSS.
 
 = 1.0.5 ( Jan 19, 2022 ) =
 * [Pro Slider] - New component for building dynamic sliders and carousels.
