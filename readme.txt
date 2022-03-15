@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
 Lightweight component library for Zion Builder.
 
-Current Components:
+Current Components added by Zion Builder:
 
 1. Adjacent Posts
 2. Author Box
@@ -31,17 +31,21 @@ Current Components:
 15. Login Form
 16. Lottie
 17. OffCanvas
-18. Member conditions
-19. Pro Modal
-20. Pro Slider
-21. Reading Progress Bar
-22. Reading Time
-23. Read More / Less
-24. Shortcode Wrapper
-25. Slide Menu
-26. Table Of Contents
-27. Text Link
-28. Toggle Switch
+18. Pro Modal
+19. Pro Slider
+20. Reading Progress Bar
+21. Reading Time
+22. Read More / Less
+23. Shortcode Wrapper
+24. Slide Menu
+25. Table Of Contents
+26. Text Link
+27. Toggle Switch
+
+Current Features added by Zion Builder:
+
+1. Element Tilt - New feature for creating tilt effects on any elements
+2. Member conditions - New feature for restricting content for membership sites. Current support/integration for Restrict Content (and Pro), MemberPress, Wishlist Member & Easy Digital Downloads
 
 == Installation ==
 
