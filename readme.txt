@@ -63,6 +63,10 @@ A valid license key should be entered for the plugin to function and to receive 
 
 == Changelog ==
 
+= 1.0.7 ( Mar 21, 2022 ) =
+* [Member Conditions] - New condition for WP-Members users.
+* [General] - Added fix for element visibility in builder when pages inherit from a template.
+
 = 1.0.6 ( Mar 16, 2022 ) =
 * [Pro Modal] - New component for creating animated modals/popups with reshow conditions.
 * [Interactive Cursor] - New component for building interactive cursor to interact with other elements.
