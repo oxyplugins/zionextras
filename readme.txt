@@ -22,25 +22,27 @@ Current Components added by Zion Builder:
 6. Content Timeline
 7. Dynamic Lightbox
 8. Dynamic Tabs
-9. Evergreen Countdown
-10. Fluent Form
-11. Header Builder
-12. Header Search
-13. Hotspots
-14. Interactive Cursor
-15. Login Form
-16. Lottie
-17. OffCanvas
-18. Pro Modal
-19. Pro Slider
-20. Reading Progress Bar
-21. Reading Time
-22. Read More / Less
-23. Shortcode Wrapper
-24. Slide Menu
-25. Table Of Contents
-26. Text Link
-27. Toggle Switch
+9. Event Countdown
+10. Evergreen Countdown
+11. Fluent Form
+12. Header Builder
+13. Header Search
+14. Hotspots
+15. Image Accordion
+16. Interactive Cursor
+17. Login Form
+18. Lottie
+19. OffCanvas
+20. Pro Modal
+21. Pro Slider
+22. Reading Progress Bar
+23. Reading Time
+24. Read More / Less
+25. Shortcode Wrapper
+26. Slide Menu
+27. Table Of Contents
+28. Text Link
+29. Toggle Switch
 
 Current Features added by Zion Builder:
 
@@ -62,6 +64,16 @@ Current Features added by Zion Builder:
 A valid license key should be entered for the plugin to function and to receive automatic updates.
 
 == Changelog ==
+
+= 1.0.8 ( Apr 07, 2022 ) =
+* [Image Accordion] - New component for adding horizontal and vertical image accordions.
+* [Event Countdown] - New component for adding fixed event / recurring countdown timers.
+* [Member Conditions] - Added integration with ActiveMember360 'conditionals'.
+* [Pro Slider] - Added support for adding inner animations to trigger on active slides.
+* [Dynamic Lightbox] - Added option to allow to swipe to navigate slides.
+* [OffCanvas] - Accessibility improvements and new settings for aria-labels etc.
+* [Burger Trigger] - Added default aria-label.
+* [Header Builder] - Fixed issue with visible small gap above the header while logged in.
 
 = 1.0.7 ( Mar 21, 2022 ) =
 * [Member Conditions] - New condition for WP-Members users.
