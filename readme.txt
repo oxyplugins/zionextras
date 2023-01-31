@@ -65,6 +65,12 @@ A valid license key should be entered for the plugin to function and to receive 
 
 == Changelog ==
 
+= 1.1.0 ( Jan 31, 2023 ) =
+* [Compatibility update] - Updated elements for compatibility with Zion Bulder v3.6.2.
+
+= 1.0.9 ( Oct 19, 2022 ) =
+* [General] - Made the plugin compatible with Zion Builder 3.4.0.
+
 = 1.0.8 ( Apr 07, 2022 ) =
 * [Image Accordion] - New component for adding horizontal and vertical image accordions.
 * [Event Countdown] - New component for adding fixed event / recurring countdown timers.
