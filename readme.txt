@@ -65,6 +65,10 @@ A valid license key should be entered for the plugin to function and to receive 
 
 == Changelog ==
 
+= 1.1.1 ( Mar 12, 2024 ) =
+* [Adjacent Posts] - Fixed issue with adjacent posts not working if other plugin filtering the post title.
+* [General] - Security patch.
+
 = 1.1.0 ( Jan 31, 2023 ) =
 * [Compatibility update] - Updated elements for compatibility with Zion Bulder v3.6.2.
 
