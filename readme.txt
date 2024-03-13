@@ -65,6 +65,9 @@ A valid license key should be entered for the plugin to function and to receive 
 
 == Changelog ==
 
+= 1.1.2 ( Mar 13, 2024 ) =
+* [General] - Security improvement.
+
 = 1.1.1 ( Mar 12, 2024 ) =
 * [Adjacent Posts] - Fixed issue with adjacent posts not working if other plugin filtering the post title.
 * [General] - Security patch.
