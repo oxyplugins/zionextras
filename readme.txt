@@ -46,8 +46,8 @@ Current Components added by Zion Builder:
 
 Current Features added by Zion Builder:
 
-1. Element Tilt - New feature for creating tilt effects on any elements
-2. Member conditions - New feature for restricting content for membership sites. Current support/integration for Restrict Content (and Pro), MemberPress, Wishlist Member & Easy Digital Downloads
+1. Element Tilt - New feature for creating tilt effects on any elements.
+2. Member conditions - New feature for restricting content for membership sites. Current support/integration for Restrict Content (and Pro), MemberPress, Wishlist Member & Easy Digital Downloads.
 
 == Installation ==
 
@@ -65,6 +65,11 @@ A valid license key should be entered for the plugin to function and to receive 
 
 == Changelog ==
 
+= 1.1.3 ( Mar 27, 2024 ) =
+* [Header Builder] - Compatibility with ZionBuilder Pro v3.6.9 (was incorrectly inheriting sticky header transition durations).
+* [Hotspots] - Fixed markers not accepting position values from repeater fields.
+* [Header Row] - Fixed an issue with the navigation bar option causing it to sometimes not display.
+
 = 1.1.2 ( Mar 13, 2024 ) =
 * [General] - Security improvement.
 
@@ -73,7 +78,7 @@ A valid license key should be entered for the plugin to function and to receive 
 * [General] - Security patch.
 
 = 1.1.0 ( Jan 31, 2023 ) =
-* [Compatibility update] - Updated elements for compatibility with Zion Bulder v3.6.2.
+* [Compatibility update] - Updated elements for compatibility with Zion Builder v3.6.2.
 
 = 1.0.9 ( Oct 19, 2022 ) =
 * [General] - Made the plugin compatible with Zion Builder 3.4.0.
